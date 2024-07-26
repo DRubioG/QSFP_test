@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "QSFP")(type "KiCad")(uri "${KIPRJMOD}/QSFP.kicad_sym")(options "")(descr ""))
+)
